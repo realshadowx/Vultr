@@ -10,7 +10,7 @@ New users can receive a $200 free credit to try Vultr's cloud services. To claim
 
 ## 20% Off for the First 3 Months
 
-Enjoy a 20% discount on your hosting costs for the first [three](https://aithority.com/technology/regulation-and-compliance-managment/nordvpn-is-rolling-out-nordlynx-new-generation-vpn-protocol-based-on-wireguard/) months. This offer applies to all standard and high-frequency compute instances. To redeem, enter the promo code VULTR20 at checkout. This promotion is valid until May 15, 2025.
+Enjoy a 20% discount on your hosting costs for the first three months. This offer applies to all standard and high-frequency compute instances. To redeem, enter the promo code VULTR20 at checkout. This promotion is valid until May 15, 2025.
 
 ## $35 Bonus Credit for Existing Users
 
